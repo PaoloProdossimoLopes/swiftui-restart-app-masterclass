@@ -1,20 +1,16 @@
-#  TITLE
-DESCRIPTION ...
-
-## 🧰 Example:
-```swift
-```
+#  Restart App
+Application to practice SwiftUI with paralax effect.
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
-- Swift 4+
-- Xcode 10+
+- Swift 5.7+
+- Xcode 14.0.1+
 
 ### INSTALATION
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/wiftui-restart-app-masterclass.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
